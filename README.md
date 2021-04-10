@@ -12,3 +12,11 @@ This repo is a python code to auto annotation sequence
 * Ubuntu / macOS / Windows
 * Python3
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
+
+## Notes
+The `requirements.txt` file should list all Python libraries that the program
+depends on, and they will be installed using:
+
+```
+pip install -r requirements.txt
+```
