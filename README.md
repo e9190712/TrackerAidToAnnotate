@@ -4,7 +4,7 @@ This repo is a python code to auto annotation sequence
 ## Features
 - [ ] Video annotation
 - [x] Dicom annotation
-- [x] annotation for rectangle
+- [x] Frame annotation for rectangle
 - [x] Tkinter GUI
 - [x] Tracker aid to annotation([CSRT](https://arxiv.org/abs/1611.08461))
 
